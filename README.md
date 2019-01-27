@@ -6,3 +6,8 @@ Topicos do curso
 * Acesse variáveis compartilhadas
 * Espere a execução de outra thread
 * Notifique outra thread
+* Escute exceções de outras threads
+* Use o cache local de variáveis em threads
+* Reaproveite threads
+* Sincronize threads de leitura e escrita
+* Trabalhe com Filas
